@@ -26,3 +26,11 @@ button:hover {
   background-color: #505050;
   color: white;
 }
+
+.result{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1em;
+  font-size: 3.5em;
+}
